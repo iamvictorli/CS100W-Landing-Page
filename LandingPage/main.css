@@ -26,22 +26,14 @@ footer {
 }
 
 .adType {
-    background-color: beige;
+    /*background-color: beige;*/
 }
 
 .adName {
-    background-color:aquamarine;
+    /*background-color:aquamarine;*/
 }
+
 
 .adDescription {
-    background-color: lightgreen;
-}
-
-hr{
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #000000;
-    margin: 1em 0;
-    padding 0;
+    /*background-color: lightgreen;*/
 }
